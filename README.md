@@ -1,4 +1,4 @@
-<h1 align="center">Player Dinâmico </h1>
+<h1 align="center">Mario</h1>
 
 <p align="center">
  Um simples jogo baseado no classico mario <br/>
