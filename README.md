@@ -1,7 +1,7 @@
 <h1 align="center">Player Dinâmico </h1>
 
 <p align="center">
-Um simples jogo Um simples jogo baseado no classico mario <br/>
+ Um simples jogo baseado no classico mario <br/>
 </p>
 
 <p align="center">
